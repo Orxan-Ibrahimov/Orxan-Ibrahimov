@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Orxan-Ibrahimov
-- 👀 I’m interested in Programming
-- 🌱 I’m currently learning Angular
+- 👀 I’m working in Programming
+- 🌱 I’m currently  busy
 
 <!---
 Orxan-Ibrahimov/Orxan-Ibrahimov is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
